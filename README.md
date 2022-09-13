@@ -1,6 +1,6 @@
 # ExecSploit
 
-**ExecSploit** is a SharpSploit port to commandline application. It contains most of the commands that may be used by C2 frameworks.
+**ExecSploit** is a SharpSploit port to command line application. It contains most of the commands that may be used by C2 frameworks.
 ExecSploit may be run from local disk or through loading into memory.
 Below is the help menu that contains the supported commands.
 ```plaintext
