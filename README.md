@@ -3,7 +3,7 @@
 **ExecSploit** is a SharpSploit port to commandline application. It contains most of the commands that may be used by C2 frameworks.
 ExecSploit may be run from local disk or through loading from memory.
 Below is the help menu that contains the supported commands.
-```powershell
+```plaintext
 PS > ExecSploit.exe
 ___________                      _________      .__         .__  __
 \_   _____/__  ___ ____   ____  /   _____/_____ |  |   ____ |__|/  |_
@@ -99,7 +99,7 @@ Commands:
 
 Each command option can be viewed by running the command without arguments or by adding "/help" as in below:
 
-```powershell
+```plaintext
 PS > ExecSploit.exe mimikatz /help
 
 Description:
@@ -112,7 +112,7 @@ Options:
 
 Below is a sample output from mimikatz command.
 
-```powershell
+```plaintext
 PS > ExecSploit.exe mimikatz /Command:coffee
 
   .#####.   mimikatz 2.2.0 (x64) #19041 Feb 18 2021 15:41:34
