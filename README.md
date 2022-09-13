@@ -97,7 +97,7 @@ Commands:
         SafetyKatz                                           Use SafetyKatz.
 ```
 
-Each command option can be viewed by running the command without arguments or by adding "/help" as in below:
+Each command arguments can be viewed by running the command without arguments or by adding "/help" as in below:
 
 ```plaintext
 PS > ExecSploit.exe mimikatz /help
